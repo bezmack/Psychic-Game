@@ -6,4 +6,10 @@
 .psychic-img {
     width:100%;
 }
-    
+ 
+h4 {
+    margin: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
