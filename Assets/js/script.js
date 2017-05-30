@@ -28,7 +28,6 @@ document.onkeyup = function(event) {
 		guessesLeft = 9;
 		guessesSoFar = [];
 		letterToBeGuessed = alphabetLetters[Math.floor(Math.random() * alphabetLetters.length)];
-		console.log("Wins: " + wins + " Losses: " + losses + " GuessesLeft: " + guessesLeft + " Guesses so far: " + guessesSoFar + " Computer picked: " + letterToBeGuessed);
 	}
 
 
@@ -38,7 +37,6 @@ document.onkeyup = function(event) {
 		guessesLeft = 9;
 		guessesSoFar = [];
 		letterToBeGuessed = alphabetLetters[Math.floor(Math.random() * alphabetLetters.length)];
-		console.log("Wins: " + wins + " Losses: " + losses + " GuessesLeft: " + guessesLeft + " Guesses so far: " + guessesSoFar + " Computer picked: " + letterToBeGuessed);
 	}
 
 
